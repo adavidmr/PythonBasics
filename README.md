@@ -9,11 +9,11 @@ Code tree:
 Exercise_name  
 |  
 |__ src  
-|  |__ code.py  
+|&nbsp; &nbsp; &nbsp;|__ code.py  
 |  
 |__ test  
-   |__ code_test.py  
-
+&nbsp; &nbsp; &nbsp;|__ code_test.py  
+  
 # Warming Up:
 
 ## Exercise 1:
