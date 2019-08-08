@@ -10,7 +10,7 @@ Exercise_name
 |  
 |__ src  
 |  |__ code.py  
-|
+|  
 |__ test  
    |__ code_test.py  
 
