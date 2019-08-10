@@ -23,3 +23,7 @@ Description: If we are not on a weekday (boolean) or vacation (boolean) we sleep
 ## Exercise 2: diff  
 Type: Simple Functions.  
 Description: We return the differnece between n and m (m - n). If n is bigger, we return their differenece multiplied by p ((n - m) * p).  
+
+## Exercise 3: near xhundred  
+Type: Simple Functions.  
+Description: Given two numbers:  xhundred being 1-9 and  number, the tested one, the program returns true if the distance between them is smaller than the difference provided.  
