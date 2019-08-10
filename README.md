@@ -13,9 +13,9 @@ Exercise_name
 |  
 |__ test  
 &nbsp; &nbsp; &nbsp;|__ code_test.py  
-  
+
 # Warming Up:
 
-## Exercise 1:
-Name: Sleep  
+## Exercise 1: Sleep  
 Type: Simple Functions  
+Description: If we are not on a weekday (boolean) or vacation (boolean) we sleep (return True)
