@@ -3,6 +3,7 @@
 # it is not a weekday (boolean)
 # we're on vacation (boolean)
 
+
 def sleep(weekday, vacation):
     if not weekday or vacation:
         return True
